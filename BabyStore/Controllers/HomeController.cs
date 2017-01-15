@@ -12,17 +12,23 @@ namespace BabyStore.Controllers
         {
             return View();
         }
-
+        /*
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
 
             return View();
         }
+        */
+        public ActionResult About(string id)
+        {
+            ViewBag.Message = "Your application description page. Your enter ID " + id;
+            return View();
+        }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your contact page. k++";
 
             return View();
         }

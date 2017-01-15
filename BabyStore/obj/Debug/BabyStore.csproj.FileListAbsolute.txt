@@ -77,5 +77,6 @@ E:\proj\BabyStore\BabyStore\bin\Microsoft.Owin.Security.OAuth.xml
 E:\proj\BabyStore\BabyStore\bin\Microsoft.Owin.Security.Google.xml
 E:\proj\BabyStore\BabyStore\bin\Microsoft.Owin.Security.Twitter.xml
 E:\proj\BabyStore\BabyStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\proj\BabyStore\BabyStore\obj\Debug\BabyStore.csprojResolveAssemblyReference.cache
 E:\proj\BabyStore\BabyStore\obj\Debug\BabyStore.dll
 E:\proj\BabyStore\BabyStore\obj\Debug\BabyStore.pdb

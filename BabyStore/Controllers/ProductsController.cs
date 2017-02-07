@@ -30,7 +30,7 @@ namespace BabyStore.Controllers
                 ViewBag.Search = search;
             }
             var categories = products.OrderBy(p => p.Category.Name).Select(p => p.Category.Name).Distinct();
-            ViewBag.Ctegory = new SelectList(categories);
+            ViewBag.Category = new SelectList(categories);
             return View(products.ToList());
         }
 
